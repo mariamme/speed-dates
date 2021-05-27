@@ -5,3 +5,4 @@ Questions that the app will address:
 what are the expectations and auto-measure of the scores for every criteria for females and males ?
 what are the criteria of your predicted perfect match ?
 How does the score given by the partners to the people corresponding to the selected characteristics affect their decisions after the date ?
+the link to the shiny app https://mariammellouli.shinyapps.io/speed_dating/
